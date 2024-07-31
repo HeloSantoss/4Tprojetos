@@ -17,4 +17,8 @@ public class Produto {
     private int quantidade;
     private String categoria;
     private double preco;
+
+    int getId() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

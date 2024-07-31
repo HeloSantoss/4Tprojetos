@@ -1,0 +1,9 @@
+py -m pip install tensorflow matplotlib numpy
+
+
+contrl+shift+p maven
+demo- exemplo_mnist_redes_neurais
+
+falta baixar
+nd4j-native-plataform
+deeplearning4j-
